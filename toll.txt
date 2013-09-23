@@ -6,3 +6,4 @@ my new superbranch test
 test
 bla
 blub
+added a new line
