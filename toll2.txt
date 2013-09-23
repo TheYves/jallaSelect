@@ -1,4 +1,4 @@
-yes yes hello
+changed a line
 a change
 
 my new superbranch test
