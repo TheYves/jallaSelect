@@ -1,3 +1,3 @@
 function test() {
-	alert('i made a change'); 
+	alert('this function is super awesome useless'); 
 }
