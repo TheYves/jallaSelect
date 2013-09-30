@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = C:/GIT/Submodule
+	branch = master
